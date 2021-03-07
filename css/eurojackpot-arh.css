@@ -1,0 +1,29 @@
+	* {margin: 0px; padding: 0px;}
+	canvas {margin-top: 8px;}
+	p {font-family: arial; font-size: 12px; color: #505050; padding-top: 10px;}
+	a {color: #505050; text-decoration: none; border-bottom: 1px dotted #d2b48c; font-size: 14px;}
+	a:hover {background: #ffffe9;}
+	td {border-top: 1px solid #f2e8c9; font-family: arial; font-size: 12px; color: #505050; background: #ffffe9; padding: 5px; margin: 0px; text-align: center;}
+	td.num {border-right: 1px solid #f2e8c9;}
+	td.dop {border-left: 1px solid #f2e8c9; font-style: italic;}
+	td.date {border-left: 1px solid #f2e8c9; font-style: italic; background: #fff;}
+	table {border-spacing: 0px;}
+	table#stat_table tr td {font-size: 10px; padding: 3px;}
+	table#stat_table {margin-top: 10px;}	
+	.skritie {margin-top: 5px; background-color: #ffffe9; cursor: pointer; display: block; font-family: arial; font-size: 12px; border: 1px solid #f2e8c9; padding: 3px; width: 330px;}
+	.strogo {margin-top: 5px; background-color: #ffffe9; cursor: pointer; display: block; font-family: arial; font-size: 12px; border: 1px solid #f2e8c9; padding: 3px; width: 330px;}
+	.skritie:hover {color: #000;}
+	.strogo:hover {color: #000;}
+	.browser {font-size: 10px; font-weight: bold;}			
+	div#numbers {position: fixed; z-index: 10000; top: 180px; margin-left: 510px; width: 500px;}	
+	button {width: 30px; height: 30px; margin-top: 5px; border: 1px solid #f2e8c9; border-radius: 0; background-color: #ffffe9;}
+	button:hover {background-color: #f2e8c9; cursor: pointer;}	
+	.metka {height: 30px; border: 1px solid #f2e8c9; border-radius: 3px; background-color: #ffffe9; padding: 3px 20px; margin: 8px; font-family: arial; font-size: 16px;}
+	.metka:hover {background-color: #f2e8c9;}
+	div#numbers div {margin-bottom: 10px; margin-top: 10px; width: 60px;}		
+	.arh {width: 800px; text-align: justify;}	
+	h1 {color: #505050;font-family: arial; font-size: 14px; margin-top: 10px;}	
+	.sort {font-size: 12px;}
+	.content {padding-left: 20px;}
+	#summaLoto, #chet {width: 330px; font-size: 12px; color: #505050; font-family: arial;}
+	#cbSXn8968mU5vf2rsCUe2o {margin-top: 0px; text-align: left !important;}

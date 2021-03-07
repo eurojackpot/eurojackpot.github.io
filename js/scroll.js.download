@@ -1,0 +1,14 @@
+window.onscroll = function() {
+    var scrolled = window.pageYOffset || document.documentElement.scrollTop;
+    if (scrolled>200) {
+        document.getElementById("numbers").style.top="15px";
+        if (document.getElementById("nerek")) {
+            document.getElementById("nerek").style.top="15px";
+        }
+    } else {
+        document.getElementById("numbers").style.top="180px";
+        if (document.getElementById("nerek")) {
+            document.getElementById("nerek").style.top="180px";
+        }
+    }
+}
